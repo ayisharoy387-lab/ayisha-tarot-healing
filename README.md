@@ -1,2 +1,72 @@
 # ayisha-tarot-healing
 Official website of Ayisha Tarot &amp; Healing – Tarot Reading, Energy Healing &amp; Online Courses
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ayisha Tarot Healing</title>
+</head>
+<body>
+  <h1>Welcome to Ayisha Tarot & Healing</h1>
+  <p>Tarot Reading | Energy Healing | Spiritual Guidance</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ayisha Tarot Healing</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #fdf6f0;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #ffd6e0;
+      padding: 30px 0;
+    }
+    header img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      border: 3px solid #fff;
+      object-fit: cover;
+    }
+    header h1 {
+      margin: 15px 0 5px 0;
+      font-size: 28px;
+      color: #d6336c;
+    }
+    header p {
+      font-size: 18px;
+      color: #555;
+    }
+    section {
+      padding: 20px;
+    }
+    a {
+      color: #d6336c;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="https://github.com/ayisharoy387-lab/ayisha-tarot-healing/raw/main/your-dp.jpg" alt="Ayisha DP">
+    <h1>Ayisha Tarot Healing</h1>
+    <p>Tarot Reader | Energy Healer | Spiritual Guide</p>
+  </header>
+
+  <section>
+    <p>Welcome! I help people find clarity, healing, and confidence through Tarot & Energy Healing 🌙✨</p>
+    <p>Book a session or learn more here: <a href="https://ayisharoy387-lab.github.io/ayisha-tarot-healing/">Visit Website</a></p>
+  </section>
+
+</body>
+</html>
